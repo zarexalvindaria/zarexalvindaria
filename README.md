@@ -1,23 +1,23 @@
 ## Hi, welcome to my GitHub profile!
 
-I am an Entrepreneurship student who transitioned to the Tech field. I am currently studying Mobile and Internet Technologies at Asia Pacific College while working as a Cloud Notifications Assistant of a Cloud Platform provider.
+I am an Entrepreneurship student who transitioned to the Tech field. I am currently studying Mobile and Internet Technologies at Asia Pacific College while working as a Customer Notifications Assistant at a Cloud Platform provider.
 
 ### Technologies I have hands-on experience on so far:
 
-Programming languages :
+**Programming languages**
 Python | Java | C++
 
-Database & NoSQL:
+**Database & NoSQL**
 MySQL | Redis | MongoDB | Cassandra | Neo4j
 
-Frontend :
-HTML5 | Wordpress
+**Frontend**
+HTML5 | WordPress
 
-Cloud Platform:
+**Cloud Platform**
 AWS | GCP
 
-OS & IDE & Tools:
-Linux | GNU | Bash | Git | IntelliJ | PyCharm | OutSystems
+**OS & IDE & Tools**
+Linux | GNU | Bash | Git | Android Studio | IntelliJ | PyCharm | OutSystems
 
 
 <!--
