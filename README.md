@@ -1,8 +1,8 @@
-### Hi, welcome to my GitHub profile!
+## Hi, welcome to my GitHub profile!
 
 I am an Entrepreneurship student who transitioned to the Tech field. I am currently studying Mobile and Internet Technologies at Asia Pacific College while working as a Cloud Notifications Assistant of a Cloud Platform provider.
 
-## Technologies I have hands-on experience on so far:
+### Technologies I have hands-on experience on so far:
 
 Programming languages :
 Python | Java | C++
