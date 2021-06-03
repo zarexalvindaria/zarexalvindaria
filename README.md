@@ -4,19 +4,19 @@ I am an Entrepreneurship student who transitioned to the Tech field. I am curren
 
 ### Technologies I have hands-on experience on so far:
 
-**Programming languages**
+**Programming languages:**
 Python | Java | C++
 
-**Database & NoSQL**
+**Database & NoSQL:**
 MySQL | Redis | MongoDB | Cassandra | Neo4j
 
-**Frontend**
+**Frontend:**
 HTML5 | WordPress
 
-**Cloud Platform**
+**Cloud Platform:**
 AWS | GCP
 
-**OS & IDE & Tools**
+**OS & IDE & Tools:**
 Linux | GNU | Bash | Git | Android Studio | IntelliJ | PyCharm | OutSystems
 
 
