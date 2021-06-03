@@ -17,7 +17,7 @@ HTML5 | WordPress
 AWS | GCP
 
 **OS & IDE & Tools:**
-Linux | GNU | Bash | Git | Android Studio | IntelliJ | PyCharm | OutSystems
+Linux | Bash | Git | Android Studio | IntelliJ IDEA | PyCharm | OutSystems
 
 
 <!--
