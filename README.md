@@ -5,7 +5,7 @@ I am an AWS Certified Cloud Practitioner and an OutSystems Reactive Developer wi
 In simple words, I am an Entrepreneurship student who transitioned to the Tech field. I am currently studying Mobile and Internet Technologies at Asia Pacific College while working as a Customer Notifications Assistant at a Cloud Platform provider.
 
 
-### Technologies I have hands-on experience on so far:
+### Technologies which I have hands-on experience so far:
 
 **Programming languages:**
 Python | Java | C++
@@ -20,7 +20,7 @@ HTML5 | WordPress
 AWS | GCP
 
 **OS & IDE & Tools:**
-FTL | Linux | Bash | Git | Android Studio | IntelliJ IDEA | PyCharm | OutSystems
+FTL (Freemarker) | Linux | Bash | Git | Android Studio | IntelliJ IDEA | PyCharm | OutSystems
 
 
 <!--
