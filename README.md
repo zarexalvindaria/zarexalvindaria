@@ -16,8 +16,8 @@ HTML5 | Wordpress
 Cloud Platform:
 AWS | GCP
 
-OS & IDE & Tools :
-Linux | GNU | Bash | Git | IntelliJ | PyCharm
+OS & IDE & Tools:
+Linux | GNU | Bash | Git | IntelliJ | PyCharm | OutSystems
 
 
 <!--
