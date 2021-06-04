@@ -1,6 +1,6 @@
 ## Hi, welcome to my GitHub profile! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" alt="meow party" />
 
-I am an AWS Certified Cloud Practitioner and an OutSystems Reactive Developer with over 3 years of working experience in SQL, JSON, HTML, and FTL (FreeMarker) technologies--sending proactive and legally obligated notifications to Cloud Platform customers.
+I am an AWS Certified Cloud Practitioner and an OutSystems Reactive Developer with over 3 years of working experience in SQL, JSON, HTML, and FTL (FreeMarker Java Template Engine) technologies--sending proactive and legally obligated notifications to Cloud Platform customers.
 
 In simple words, I am a business student who transitioned to the Tech field. I am currently studying Mobile and Internet Technologies at Asia Pacific College while working as a Customer Notifications Assistant at a Cloud Platform provider.
 
@@ -25,7 +25,7 @@ AWS | GCP
 
 **OS & IDE & Tools:**
 
-FTL (Freemarker) | Linux | Bash | Git | Android Studio | IntelliJ IDEA | PyCharm | OutSystems
+FTL (FreeMarker) | Linux | Bash | Git | Android Studio | IntelliJ IDEA | PyCharm | OutSystems
 
 
 <!--
