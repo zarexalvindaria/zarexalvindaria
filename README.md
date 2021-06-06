@@ -2,7 +2,7 @@
 
 I am an AWS Certified Cloud Practitioner and an OutSystems Reactive Developer with over 3 years of working experience in SQL, JSON, HTML, and FTL (FreeMarker Java Template Engine) technologies--sending proactive and legally obligated notifications to Cloud Platform customers.
 
-In simple words, I am a business student who transitioned to the Tech field. I am currently studying Mobile and Internet Technologies at Asia Pacific College while working as a Customer Notifications Assistant at a Cloud Platform provider.
+In simple words, I am a business student who transitioned to the Tech field. I am currently studying Mobile and Internet Technologies at Asia Pacific College while working as a Customer Notifications Assistant at a Cloud Service provider.
 
 
 ### Technologies which I have hands-on experience so far:
