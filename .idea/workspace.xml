@@ -36,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623169704518</updated>
-      <workItem from="1623169706100" duration="4375000" />
+      <workItem from="1623169706100" duration="4694000" />
     </task>
     <task id="LOCAL-00001" summary="Removed awkward spaces between tech stack">
       <created>1623170762316</created>
@@ -115,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623182052286</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added link to SUSE's Scholarship program">
+      <created>1623182128823</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1623182128823</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added link to SUSE's Scholarship program">
+      <created>1623182265010</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1623182265010</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
