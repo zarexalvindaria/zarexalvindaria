@@ -7,7 +7,7 @@ I am an AWS Certified Cloud Practitioner, and an OutSystems Reactive Developer w
 In simple words, I am a business student who transitioned to the #techfield. I am currently studying Mobile and Internet Technologies at Asia Pacific College while working as a Customer Notifications Assistant at a Cloud Service provider.
 
 ### What I'm working on... <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1616844216/24572/hit-head.gif" alt="hit head">
-I’m currently working on leveling up on Udacity's and SUSE's <a href="https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship" target="_blank">Cloud Native Foundations Scholarship Program</a>.
+I’m currently working on leveling up on Udacity's and SUSE's [Cloud Native Foundations Scholarship Program](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship).
 
 ### Technologies which I have hands-on experience so far... <img width="25" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1620249303/36137/doge_dance.gif" alt="doge dance">
 
