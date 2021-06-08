@@ -18,7 +18,7 @@ Python | Java | C++
 MySQL | Redis | MongoDB | Cassandra | Neo4j
 
 **Frontend:**<br/>
-HTML5 | WordPress
+HTML5 | WordPress | CSS
 
 **Cloud Platform:**<br/>
 AWS | GCP
