@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c84ce7ce-cf84-408e-a7c1-55b004f6842a" name="Default Changelist" comment="added link to SUSE's Scholarship program">
+    <list default="true" id="c84ce7ce-cf84-408e-a7c1-55b004f6842a" name="Default Changelist" comment="Transferred emojis before the heading">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623169704518</updated>
-      <workItem from="1623169706100" duration="4694000" />
+      <workItem from="1623169706100" duration="5127000" />
     </task>
     <task id="LOCAL-00001" summary="Removed awkward spaces between tech stack">
       <created>1623170762316</created>
@@ -129,7 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623182265010</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added link to SUSE's Scholarship program">
+      <created>1623182451560</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1623182451560</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Transferred emojis before the heading">
+      <created>1623182592064</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1623182592064</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +169,7 @@
     <MESSAGE value="Added CSS to tech stack" />
     <MESSAGE value="aligned gif -&gt; text-bottom" />
     <MESSAGE value="added link to SUSE's Scholarship program" />
-    <option name="LAST_COMMIT_MESSAGE" value="added link to SUSE's Scholarship program" />
+    <MESSAGE value="Transferred emojis before the heading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Transferred emojis before the heading" />
   </component>
 </project>
