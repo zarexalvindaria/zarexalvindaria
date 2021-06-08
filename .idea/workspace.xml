@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c84ce7ce-cf84-408e-a7c1-55b004f6842a" name="Default Changelist" comment="aligned gif -&gt; text-bottom">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tforehHZuVCmqvYZVt5UbderN8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c84ce7ce-cf84-408e-a7c1-55b004f6842a" name="Default Changelist" comment="" />
+      <created>1623169704518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623169704518</updated>
+      <workItem from="1623169706100" duration="4036000" />
+    </task>
+    <task id="LOCAL-00001" summary="Removed awkward spaces between tech stack">
+      <created>1623170762316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623170762316</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added what I'm working on">
+      <created>1623171296017</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623171296017</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added what I'm working on">
+      <created>1623171344257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623171344257</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Modified working on part">
+      <created>1623175253931</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623175253931</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Modified working on part">
+      <created>1623175306971</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623175306971</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added emojis">
+      <created>1623176266599</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623176266599</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added CSS to tech stack">
+      <created>1623176387964</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1623176387965</updated>
+    </task>
+    <task id="LOCAL-00008" summary="aligned gif -&gt; text-bottom">
+      <created>1623176813427</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623176813427</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Removed awkward spaces between tech stack" />
+    <MESSAGE value="Added what I'm working on" />
+    <MESSAGE value="Modified working on part" />
+    <MESSAGE value="Added emojis" />
+    <MESSAGE value="Added CSS to tech stack" />
+    <MESSAGE value="aligned gif -&gt; text-bottom" />
+    <option name="LAST_COMMIT_MESSAGE" value="aligned gif -&gt; text-bottom" />
+  </component>
+</project>
