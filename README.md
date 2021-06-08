@@ -10,7 +10,7 @@ In simple words, I am a business student who transitioned to the #techfield. I a
 ### What I'm working on... <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1616844216/24572/hit-head.gif" alt="hit head"> 
 I’m currently working to level up on Udacity's and SUSE's [Cloud Native Foundations Scholarship Program](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship).
 
-###Solution Stack which I have hands-on experience so far... <img width="25" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1620249303/36137/doge_dance.gif" alt="doge dance">
+### Solution Stack which I have hands-on experience so far... <img width="25" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1620249303/36137/doge_dance.gif" alt="doge dance">
 
 **Programming languages:**<br/>
 Python | Java | C++
