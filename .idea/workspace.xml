@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c84ce7ce-cf84-408e-a7c1-55b004f6842a" name="Default Changelist" comment="Added to solution stack">
+    <list default="true" id="c84ce7ce-cf84-408e-a7c1-55b004f6842a" name="Default Changelist" comment="Added Wix Velo to Sol'n stack">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/javascript-essential-training-2832077" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -38,7 +37,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623169704518</updated>
-      <workItem from="1623169706100" duration="5936000" />
+      <workItem from="1623169706100" duration="6193000" />
+      <workItem from="1623184215601" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="Removed awkward spaces between tech stack">
       <created>1623170762316</created>
@@ -159,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623183066594</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Added Wix Velo to Sol'n stack">
+      <created>1623183782854</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1623183782854</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +182,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -187,6 +195,7 @@
     <MESSAGE value="added link to SUSE's Scholarship program" />
     <MESSAGE value="Transferred emojis before the heading" />
     <MESSAGE value="Added to solution stack" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added to solution stack" />
+    <MESSAGE value="Added Wix Velo to Sol'n stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Wix Velo to Sol'n stack" />
   </component>
 </project>
