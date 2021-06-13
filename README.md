@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile! <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1613437422/13171/meow_wave.gif?1613437422" alt="meow wave" />
+## Welcome to my GitHub profile! <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png" alt="meow attention" />
 
 
 ### About me... <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1613273603/12755/meow_wave_peak.png?1613273603" alt="meow wave peak" />  
@@ -20,7 +20,7 @@ Python | Java | C++
 MySQL | Redis | MongoDB | Cassandra | Neo4j
 
 **Frontend:**<br/>
-HTML5 | WordPress | CSS | Wix <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1612925347/12476/meow_dab.gif?1612925347" alt="meow_dab"> Velo
+HTML5 | WordPress | CSS | JavaScript
 
 **Cloud Platform:**<br/>
 AWS | GCP
