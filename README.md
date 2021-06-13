@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile! <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png" alt="meow attention" />
+## Welcome to my GitHub profile! <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1587134085/8661/fast_meow_party.gif?1587134085" alt="meow party" />
 
 
 ### About me... <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1613273603/12755/meow_wave_peak.png?1613273603" alt="meow wave peak" />  
