@@ -17,7 +17,7 @@ In simple words, I am a business student who transitioned to the #techfield. I a
 Python | Java | C++
 
 **Databases (Relational & NoSQL):**<br/>
-MySQL | Redis | MongoDB | Cassandra | Neo4j
+MySQL | SQL (Ad hoc & stored procedures) | Redis | MongoDB | Cassandra | Neo4j
 
 **Frontend:**<br/>
 HTML5 | WordPress | CSS | JavaScript
@@ -26,7 +26,7 @@ HTML5 | WordPress | CSS | JavaScript
 AWS | GCP
 
 **OS & IDE & Tools:**<br/>
-FTL (FreeMarker) | Linux | Bash | Git | Android Studio | IntelliJ IDEA | PyCharm | OutSystems
+FTL (FreeMarker) | Linux | Bash | Git | Android Studio | Eclipse | IntelliJ IDEA | PyCharm | OutSystems
 
 
 
