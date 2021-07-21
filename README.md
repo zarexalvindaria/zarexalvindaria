@@ -3,7 +3,7 @@
 
 ### About me... <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1613273603/12755/meow_wave_peak.png?1613273603" alt="meow wave peak" />  
 
-I am an AWS Certified Cloud Practitioner, and an OutSystems Reactive Developer with over 3 years of working experience in SQL, JSON, HTML, and FTL (FreeMarker Java Template Engine) technologies--sending proactive, personalized, and legally obligated notifications to Cloud Platform customers.
+I am an AWS Certified Cloud Practitioner and an OutSystems Reactive Developer with over 3 years of working experience in SQL, JSON, HTML, and FTL (FreeMarker Java Template Engine) technologies--sending proactive, personalized, and legally obligated notifications to Cloud Platform customers.
 
 In simple words, I am a business student who transitioned to the #techfield. I am currently studying Mobile and Internet Technologies at Asia Pacific College while working as a Customer Notifications Assistant at a Cloud Service provider.
 
