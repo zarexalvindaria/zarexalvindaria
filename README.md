@@ -26,7 +26,7 @@ HTML5 | WordPress | CSS | JavaScript
 AWS | GCP
 
 **OS & IDE & Tools:**<br/>
-FTL (FreeMarker) | Linux | Bash | Git | Android Studio | Eclipse | IntelliJ IDEA | PyCharm | OutSystems
+FTL (FreeMarker) | Linux | Bash | Git | Android Studio | Eclipse | IntelliJ IDEA | PyCharm | OutSystems | VS Code
 
 
 
