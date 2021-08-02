@@ -17,7 +17,7 @@ In simple words, I am a business student who transitioned to the #techfield. I a
 Python | Java | C++ | Go
 
 **Databases (Relational & NoSQL):**<br/>
-MySQL | SQL (Ad hoc & stored procedures) | Redis | MongoDB | Cassandra | Neo4j
+MySQL | SQL (Ad hoc & stored procedures) | PostgreSQL | Redis | MongoDB | Cassandra | Neo4j
 
 **Frontend:**<br/>
 HTML5 | WordPress | CSS | JavaScript
