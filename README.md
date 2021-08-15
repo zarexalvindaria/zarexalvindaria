@@ -28,6 +28,9 @@ AWS | GCP
 **OS & IDE & Tools:**<br/>
 FTL (FreeMarker) | Linux | Bash | Git | Android Studio | Eclipse | IntelliJ IDEA | PyCharm | OutSystems | VS Code
 
+#### Badges
+
+![](https://komarev.com/ghpvc/?username=zarexalvindaria)
 
 
 <!--
