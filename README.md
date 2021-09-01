@@ -26,7 +26,7 @@ HTML5 | WordPress | CSS | JavaScript
 AWS | GCP
 
 **OS & IDE & Tools:**<br/>
-FTL (FreeMarker) | Linux | Bash | Git | Android Studio | Eclipse | IntelliJ IDEA | PyCharm | OutSystems | VS Code
+FTL (FreeMarker) | Linux | Docker | K8s | Bash | Git | Android Studio | Eclipse | IntelliJ IDEA | PyCharm | OutSystems | VS Code
 
 #### Badges
 
