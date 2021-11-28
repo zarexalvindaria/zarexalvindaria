@@ -14,7 +14,7 @@ In simple words, I am a business student who transitioned to the #techfield. I a
 ### Solution Stack which I have hands-on experience so far... <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1613773113/13688/meow_dance.gif?1613773113" alt="meow dance"/>
 
 **Programming languages:**<br/>
-Python | Java | C++ | Go
+Python | Java
 
 **Databases (Relational & NoSQL):**<br/>
 MySQL | SQL (Ad hoc & stored procedures) | PostgreSQL | Redis | MongoDB | Cassandra | Neo4j
