@@ -1,5 +1,14 @@
 # Welcome to my GitHub profile! <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1587134085/8661/fast_meow_party.gif?1587134085" alt="meow party" />
 
+## Summary
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarexalvindaria&layout=compact&langs_count=8&theme=dark)](https://github.com/zarexalvindaria)
+
+![zarexalvindaria](https://github-readme-streak-stats.herokuapp.com/?user=zarexalvindaria&theme=dark)
+
+[![Krypton's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=zarexalvindaria&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/zarexalvindaria)
+
+![](https://komarev.com/ghpvc/?username=zarexalvindaria)
 
 ## About me... <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1613273603/12755/meow_wave_peak.png?1613273603" alt="meow wave peak" />  
 
@@ -39,12 +48,3 @@ WordPress
 ### OS, IDE & Tools:
 FTL (FreeMarker) | Linux | Docker | K8s | Bash | Git | Android Studio | IntelliJ IDEA | PyCharm | OutSystems | VS Code
 
-## Badges
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarexalvindaria&layout=compact&langs_count=8&theme=dark)](https://github.com/zarexalvindaria)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zarexalvindaria&theme=dark" alt="zarexalvindaria" /></p> 
-
-[![Krypton's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=zarexalvindaria&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/zarexalvindaria)
-
-![](https://komarev.com/ghpvc/?username=zarexalvindaria)
