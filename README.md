@@ -5,7 +5,7 @@
 
 I am a business student who decided to pursue the tech field. I am currently studying Mobile and Internet Technologies at Asia Pacific College while working as a Customer Notifications Assistant at a Cloud Service provider.
 
-I am a Cloud Practitioner and an OutSystems Reactive Developer with over 3 years of working experience in SQL, JSON, HTML, and FTL (FreeMarker Java Template Engine) technologies--sending proactive, personalized, and legally obligated notifications to Cloud Platform customers. I recently received my certification from Udacity's and SUSE's [Cloud Native Application Architecture Nanodegree Program](https://graduation.udacity.com/confirm/HZJUTKXR).
+I am a Cloud Practitioner and an OutSystems Reactive Developer with over 3 years of working experience in SQL, JSON, HTML, and FTL (FreeMarker Java Template Engine) technologies--sending proactive, personalized, and legally obligated notifications to Cloud Platform customers. I recently received my certification after graduating from Udacity's and SUSE's [Cloud Native Application Architecture Nanodegree Program](https://graduation.udacity.com/confirm/HZJUTKXR).
 
 
 
