@@ -12,9 +12,9 @@
 
 ## About me... <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1613273603/12755/meow_wave_peak.png?1613273603" alt="meow wave peak" />  
 
-I am a business student who decided to pursue the tech field. I am currently studying Mobile and Internet Technologies at Asia Pacific College while working as a Customer Notifications Assistant at a Cloud Service provider.
+A business student who decided to pursue programming and tech, I am currently studying Mobile and Internet Technologies at Asia Pacific College while working as a Customer Notifications Assistant at a Cloud Service provider.
 
-I am a Cloud Practitioner and an OutSystems Reactive Developer with over 3 years of working experience in SQL, JSON, HTML, and FTL (FreeMarker Java Template Engine) technologies--sending proactive, personalized, and legally obligated notifications to Cloud Platform customers. I recently received my certification after graduating from Udacity's and SUSE's [Cloud Native Application Architecture Nanodegree Program](https://graduation.udacity.com/confirm/HZJUTKXR).
+Few of my certifications include AWS Cloud Practitioner and OutSystems Reactive Developer. I recently graduated from Udacity's and SUSE's [Cloud Native Application Architecture Nanodegree Program](https://graduation.udacity.com/confirm/HZJUTKXR). I also have over 3 years of working experience in SQL, JSON, HTML, and FTL (FreeMarker Java Template Engine) technologies--sending proactive, personalized, and legally obligated notifications to Cloud Platform customers.
 
 
 
@@ -28,23 +28,23 @@ I am a Cloud Practitioner and an OutSystems Reactive Developer with over 3 years
 ## Solution Stack which I have hands-on experience so far... <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1613773113/13688/meow_dance.gif?1613773113" alt="meow dance"/>
 
 ### Programming languages:
-Python | Java
+Python ● Java
 
 ### Databases (Relational & NoSQL):
-MySQL | SQL (Ad hoc & stored procedures) | PostgreSQL | Redis | MongoDB | Cassandra | Neo4j
+MySQL ● SQL (Ad hoc & stored procedures) ● PostgreSQL ● Redis ● MongoDB ● Cassandra ● Neo4j
 
 ### Frontend:
-HTML5 | CSS | JavaScript
+HTML5 ● CSS ● JavaScript
 
 ### Framework:
-Django | Flask
+Django ● Flask
 
 ### Cloud Platform:
-AWS | GCP
+AWS ● GCP
 
 ### CMS:
 WordPress
 
 ### OS, IDE & Tools:
-FTL (FreeMarker) | Linux | Docker | K8s | Bash | Git | Android Studio | IntelliJ IDEA | PyCharm | OutSystems | VS Code
+FTL (FreeMarker) ● Linux ● Docker ● K8s ● Bash ● Git ● Android Studio ● IntelliJ IDEA ● PyCharm ● OutSystems ● VS Code
 
