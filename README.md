@@ -1,21 +1,14 @@
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+<h1 align="center">Welcome to my GitHub profile! <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1587134085/8661/fast_meow_party.gif?1587134085" alt="meow party" /></h1>
 
-<h1 style="text-align:center;">Welcome to my GitHub profile! <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1587134085/8661/fast_meow_party.gif?1587134085" alt="meow party" /></h1>
+<h2 align="center">Badges</h2>
 
-<h2 style="text-align:center;">Badges</h2>
+<p align="center"><img class="center" alt="zarexalvindaria" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarexalvindaria&layout=compact&langs_count=8&theme=dark" href="https://github.com/zarexalvindaria"/></p>
 
-<img class="center" alt="zarexalvindaria" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarexalvindaria&layout=compact&langs_count=8&theme=dark" href="https://github.com/zarexalvindaria"/>
+<p align="center"><img class="center" alt="zarexalvindaria" src="https://github-readme-streak-stats.herokuapp.com/?user=zarexalvindaria&theme=dark" href="https://github.com/zarexalvindaria"></p>
 
-<img class="center" alt="zarexalvindaria" src="https://github-readme-streak-stats.herokuapp.com/?user=zarexalvindaria&theme=dark" href="https://github.com/zarexalvindaria">
+<p align="center"><img class="center" alt="zarexalvindaria's GitHub stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zarexalvindaria&count_private=true&include_all_commits=true&show_icons=true&theme=dark" href="https://github.com/zarexalvindaria" /></p>
 
-<img class="center" alt="zarexalvindaria's GitHub stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zarexalvindaria&count_private=true&include_all_commits=true&show_icons=true&theme=dark" href="https://github.com/zarexalvindaria" />
-
-<img alt="Profile views" class="center" src="https://komarev.com/ghpvc/?username=zarexalvindaria" />
+<p align="center"><img alt="Profile views" class="center" src="https://komarev.com/ghpvc/?username=zarexalvindaria" /></p>
 
 ## About me... <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1613273603/12755/meow_wave_peak.png?1613273603" alt="meow wave peak" />  
 
