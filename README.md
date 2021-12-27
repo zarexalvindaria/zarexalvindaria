@@ -28,23 +28,23 @@ Few of my certifications include AWS Cloud Practitioner and OutSystems Reactive 
 ## Solution Stack which I have hands-on experience so far... <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1613773113/13688/meow_dance.gif?1613773113" alt="meow dance"/>
 
 ### Programming languages:
-Python ● Java
+Python · Java
 
 ### Databases (Relational & NoSQL):
-MySQL ● SQL (Ad hoc & stored procedures) ● PostgreSQL ● Redis ● MongoDB ● Cassandra ● Neo4j
+MySQL · SQL (Ad hoc & stored procedures) · PostgreSQL · Redis · MongoDB · Cassandra · Neo4j
 
 ### Frontend:
-HTML5 ● CSS ● JavaScript
+HTML5 · CSS · JavaScript
 
 ### Framework:
-Django ● Flask
+Django · Flask
 
 ### Cloud Platform:
-AWS ● GCP
+AWS · GCP
 
 ### CMS:
 WordPress
 
 ### OS, IDE & Tools:
-FTL (FreeMarker) ● Linux ● Docker ● K8s ● Bash ● Git ● Android Studio ● IntelliJ IDEA ● PyCharm ● OutSystems ● VS Code
+FTL (FreeMarker) · Linux · Docker · K8s · Bash · Git · Android Studio · IntelliJ IDEA · PyCharm · OutSystems · VS Code
 
