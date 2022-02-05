@@ -2,7 +2,7 @@
 
 <h2 align="center">Badges</h2>
 
-<p align="center"><img class="center" alt="zarexalvindaria" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarexalvindaria&layout=compact&langs_count=8&theme=dark" href="https://github.com/zarexalvindaria"/></p>
+<p align="center"><img class="center" alt="zarexalvindaria" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarexalvindaria&exclude_repo=r-programming&layout=compact&langs_count=8&theme=dark" href="https://github.com/zarexalvindaria"/></p>
 
 <p align="center"><img class="center" alt="zarexalvindaria" src="https://github-readme-streak-stats.herokuapp.com/?user=zarexalvindaria&theme=dark" href="https://github.com/zarexalvindaria"></p>
 
