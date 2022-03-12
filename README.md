@@ -34,10 +34,10 @@ Python · Java
 MySQL · SQL (Ad hoc & stored procedures) · PostgreSQL · Redis · MongoDB · Cassandra · Neo4j
 
 ### Frontend:
-HTML5 · CSS · JavaScript
+HTML5 · CSS · JavaScript · Angular
 
-### Framework:
-Django · Flask
+### Backend/Framework:
+Django · Flask · Spring Boot
 
 ### Cloud Platform:
 AWS · GCP
