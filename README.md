@@ -17,13 +17,15 @@ A business student who decided to pursue programming and tech, I am currently st
 Few of my certifications include AWS Cloud Practitioner and OutSystems Reactive Developer. I recently graduated from Udacity's and SUSE's [Cloud Native Application Architecture Nanodegree Program](https://graduation.udacity.com/confirm/HZJUTKXR). I also have over 3 years of working experience in SQL, JSON, HTML, and FTL (FreeMarker Java Template Engine) technologies--sending proactive, personalized, and legally obligated notifications to Cloud Platform customers.
 
 
-
+<!--
 ## 🔭 What I'm working on... <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" alt="meow code"/> 
 - Mastering Git
 - Tinkering with Node.js via Velo by Wix
 
 ## 🌱 I’m currently learning ...
 - Angular and Spring Boot
+
+-->
 
 ## Solution Stack which I have hands-on experience so far... <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1613773113/13688/meow_dance.gif?1613773113" alt="meow dance"/>
 
