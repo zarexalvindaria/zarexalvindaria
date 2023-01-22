@@ -12,9 +12,11 @@
 
 ## About me... <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1613273603/12755/meow_wave_peak.png?1613273603" alt="meow wave peak" />  
 
-A business student who decided to pursue #Programming and #Tech, I am currently studying Mobile and Internet Technologies at Asia Pacific College while working full-time as a Process Associate.
+I just recently earned my Bachelor's degree in Information Technology with a major in Mobile and Internet Technologies at Asia Pacific College (APC), and I'm now working full-time as a CRM Support Engineer/Tech Process Associate at Google Operations Center, acting as a bridge between users and the Google support teams by enabling and maintaining Google's support ecosystem (contact and consult forms, Help Centers, etc.).
 
-Few of my certifications include AWS Cloud Practitioner, OutSystems Reactive Developer, and Udacity's and SUSE's [Cloud Native Application Architecture Nanodegree](https://graduation.udacity.com/confirm/HZJUTKXR). I also have over 4 years of working experience in SQL, JSON, HTML, and FTL (FreeMarker Java Template Engine) technologies.
+I've been programming SQL for more than 4 years, and I've used it in a lot of my projects. I also gained practical experience with R programming, data mining, managing analytics projects, and NoSQL platforms including MongoDB, Redis, Cassandra, and Neo4j during my electives in IT Analytics at APC.
+
+Few of my certifications and training include AWS Cloud Practitioner, OutSystems Reactive Developer, and Udacity's and SUSE's [Cloud Native Application Architecture Nanodegree](https://graduation.udacity.com/confirm/HZJUTKXR). I also have over 4 years of working experience in SQL, JSON, HTML, and FTL (FreeMarker Java Template Engine) technologies.
 
 ## 🌱 I’m currently learning ...
 - Hadoop, Spark, and Data Engineering
