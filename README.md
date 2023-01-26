@@ -16,7 +16,7 @@ I just recently earned my Bachelor's degree in Information Technology with a maj
 
 I've been programming in SQL for more than 4 years, and I've used it in a lot of my projects. I also gained practical experience with R programming, data mining, managing analytics projects, and NoSQL platforms including MongoDB, Redis, Cassandra, and Neo4j during my electives in IT Analytics at APC.
 
-Few of my certifications and training include AWS Cloud Practitioner, OutSystems Reactive Developer, and Udacity's and SUSE's [Cloud Native Application Architecture Nanodegree](https://graduation.udacity.com/confirm/HZJUTKXR). I also have over 4 years of working experience in SQL, JSON, HTML, and FTL (FreeMarker Java Template Engine) technologies.
+Few of my certifications and training include AWS Cloud Practitioner, OutSystems Reactive Developer, and Udacity's and SUSE's [Cloud Native Application Architecture Nanodegree](https://graduation.udacity.com/confirm/HZJUTKXR). I also have over 4 years of working experience in JSON, HTML, and FTL (FreeMarker Java Template Engine) technologies.
 
 ## 🌱 I’m currently learning ...
 - Hadoop, Spark, and Data Engineering
