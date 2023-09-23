@@ -12,11 +12,13 @@
 
 ## About me... <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1613273603/12755/meow_wave_peak.png?1613273603" alt="meow wave peak" />  
 
-I graduated with a Bachelor's degree in Information Technology Major in Mobile and Internet Technologies at Asia Pacific College (APC), and am currently working full-time as a Data Engineer at DFI Retail Group--building data pipelines and resolving pipeline issues to help the company make data-driven and timely business decisions.
+- I have a Bachelor's degree in Information Technology, Major in Mobile and Internet Technologies from Asia Pacific College (APC).
+- I currently work as a Data Engineer at DFI Retail Group, where I build data pipelines and resolve pipeline issues to help the company make data-driven and timely business decisions.
+- I have 6+ years of experience with SQL, and I have also applied R programming, data mining, and NoSQL platforms (MongoDB, Redis, Cassandra, Neo4j) in my work.
+- I have AWS Cloud Practitioner, Azure Data Fundamentals, OutSystems Reactive Developer, and Udacity's and SUSE's [Cloud Native Application Architecture Nanodegree](https://graduation.udacity.com/confirm/HZJUTKXR) certifications.
+- I also have 4+ years of experience with JSON, HTML, and FTL (FreeMarker Java Template Engine) technologies.
 
-I've been programming in SQL for more than 6 years, and I've used it in many of my projects. I also have practical experience with R programming, data mining, managing analytics projects, and NoSQL platforms including MongoDB, Redis, Cassandra, and Neo4j during my electives in IT Analytics at APC.
 
-Few of my certifications and training include AWS Cloud Practitioner, Azure Data Fundamentals, OutSystems Reactive Developer, and Udacity's and SUSE's [Cloud Native Application Architecture Nanodegree](https://graduation.udacity.com/confirm/HZJUTKXR). I also have over 4 years of working experience in JSON, HTML, and FTL (FreeMarker Java Template Engine) technologies.
 
 ## 🌱 I’m currently learning ...
 - dbt and GCP Data Engineering
@@ -36,7 +38,7 @@ HTML5 · CSS · JavaScript · Angular
 Django · Flask · Spring Boot
 
 ### Cloud Platform:
-AWS · GCP
+GCP · AWS · Azure
 
 ### CMS:
 WordPress
