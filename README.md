@@ -14,8 +14,8 @@
 
 - I have a Bachelor's degree in Information Technology, Major in Mobile and Internet Technologies from Asia Pacific College (APC).
 - I currently work as a Data Engineer at DFI Retail Group, where I build and optimize data pipelines, maintain the company's data lake, and monitor and troubleshoot pipeline issues to help the business users make data-driven and timely business decisions.
-- I have 6+ years of experience with SQL, and I have also applied R programming, data mining, and NoSQL platforms (MongoDB, Redis, Cassandra, Neo4j) skills at work.
-- I have AWS Cloud Practitioner, Azure Data Fundamentals, OutSystems Reactive Developer, and Udacity's and SUSE's [Cloud Native Application Architecture Nanodegree](https://graduation.udacity.com/confirm/HZJUTKXR) certifications.
+- I have 7+ years of experience with SQL, and I also have hands-on experience with R programming, data mining, and NoSQL platforms (MongoDB, Redis, Cassandra, Neo4j) from my school projects.
+- I have multiple GCP certifications, Azure Data Fundamentals certification, OutSystems Reactive Developer certification, and Udacity's and SUSE's [Cloud Native Application Architecture Nanodegree](https://graduation.udacity.com/confirm/HZJUTKXR) certification.
 - I also have 4+ years of experience with JSON, HTML, and FTL (FreeMarker Java Template Engine) technologies.
 
 
@@ -32,7 +32,7 @@ Python · Java
 MySQL · SQL (Ad hoc & stored procedures) · PostgreSQL · Redis · MongoDB · Cassandra · Neo4j
 
 ### Frontend:
-HTML5 · CSS · JavaScript · Angular
+Tableau · HTML5 · CSS · JavaScript · Angular
 
 ### Backend/Framework:
 Django · Flask · Spring Boot
