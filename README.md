@@ -1,8 +1,6 @@
-<h1 align="center">Welcome to my GitHub profile! <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1587134085/8661/fast_meow_party.gif?1587134085" alt="meow party" /></h1>
+<h1 align="center">Welcome to my GitHub profile!</h1>
 
 <h2 align="center">Badges</h2>
-
-<p align="center"><img class="center" alt="zarexalvindaria" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarexalvindaria&exclude_repo=r-programming&layout=compact&langs_count=8&theme=dark" href="https://github.com/zarexalvindaria"/></p>
 
 <p align="center"><img class="center" alt="zarexalvindaria" src="https://github-readme-streak-stats.herokuapp.com/?user=zarexalvindaria&theme=dark" href="https://github.com/zarexalvindaria"></p>
 
@@ -14,14 +12,12 @@
 
 - I have a Bachelor's degree in Information Technology, Major in Mobile and Internet Technologies from Asia Pacific College (APC).
 - I currently work as a Data Engineer at DFI Retail Group, where I build and optimize data pipelines, maintain the company's data lake, and monitor and troubleshoot pipeline issues to help the business users make data-driven and timely business decisions from our generated reports.
-- I have 7+ years of experience with SQL, and I also have hands-on experience with R programming, data mining, and NoSQL platforms (MongoDB, Redis, Cassandra, Neo4j) from my school projects.
-- I have multiple GCP certifications, Azure Data Fundamentals certification, OutSystems Reactive Developer certification, and Udacity's and SUSE's [Cloud Native Application Architecture Nanodegree](https://graduation.udacity.com/confirm/HZJUTKXR) certification.
+- I have 7+ years of experience with SQL, Azure Data Fundamentals certification, OutSystems Reactive Developer certification, Udacity's and SUSE's [Cloud Native Application Architecture Nanodegree](https://graduation.udacity.com/confirm/HZJUTKXR) and multiple GCP certifications.
 - I also have 5+ years of experience with JSON, HTML, and FTL (FreeMarker Java Template Engine) technologies.
 
 
-
 ## 🌱 I’m currently learning ...
-- dbt and GCP Data Engineering
+- Snowflake, dbt, and new Data Engineering technologies
 
 ## Solution Stack which I have hands-on experience so far... <img width="30" style="vertical-align:text-bottom;" src="https://emojis.slackmojis.com/emojis/images/1613773113/13688/meow_dance.gif?1613773113" alt="meow dance"/>
 
@@ -38,11 +34,4 @@ Tableau · HTML5 · CSS · JavaScript · Angular
 Django · Flask · Spring Boot
 
 ### Cloud Platform:
-GCP · AWS · Azure
-
-### CMS:
-WordPress
-
-### OS, IDE & Tools:
-FTL (FreeMarker) · Linux · Docker · K8s · Bash · Git · Android Studio · IntelliJ IDEA · PyCharm · OutSystems · VS Code
-
+GCP · Azure · AWS
